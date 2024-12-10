@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working on a 3D horror game 😲
+- 🌱 I’m currently learning about cybersecurity !
+- ⚡ Fun fact: I love tea !
 
 <!--
 **Horon08/Horon08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
